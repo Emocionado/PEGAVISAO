@@ -2,7 +2,7 @@
     "room": "https://plug.dj/pegavisao",
     "author": "MamãeFalhei",
     "icon": null,
-    "css": "https://rawgit.com/VitinJSC/PEGAVISAO/master/room.css",
+    "css": "https://github.com/MamaeFalhei/PEGAVISAO/blob/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
