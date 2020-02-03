@@ -2,7 +2,7 @@
     "room": "https://plug.dj/pegavisao",
     "author": "Emocionado",
     "icon": null,
-    "css": "https://github.com/Emocionado/PEGAVISAO/blob/master/room.css",
+    "css": "https://raw.githack.com/Emocionado/PEGAVISAO/master/room.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
